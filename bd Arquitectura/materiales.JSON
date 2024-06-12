@@ -1,0 +1,7 @@
+{
+  "nombre": "string",
+  "descripcion": "string",
+  "cantidad_disponible": float,
+  "unidad_medida": "string",
+  "precio_unitario": float
+}

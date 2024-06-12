@@ -1,0 +1,18 @@
+{
+  "nombre": "string",
+  "apellido": "string",
+  "puesto": "string",
+  "salario": float,
+  "fecha_contratacion": "string",
+  "fecha_terminacion": "string",
+  "proyectos_asignados": [
+    {
+      "nombre": "string",
+      "descripcion": "string",
+      "fecha_inicio": "string",
+      "fecha_fin": "string",
+      "estado": "string",
+      "responsable": "string"
+    }
+  ]
+}

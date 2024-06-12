@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Proveedor A",
+    "direccion": "Calle de los Proveedores #123",
+    "telefono": "123456789",
+    "email": "proveedorA@example.com"
+  },
+  {
+    "nombre": "Proveedor B",
+    "direccion": "Avenida de los Suministros #789",
+    "telefono": "456789012",
+    "email": "proveedorB@example.com"
+  },
+  {
+    "nombre": "Proveedor C",
+    "direccion": "Calle de los Materiales #456",
+    "telefono": "789012345",
+    "email": "proveedorC@example.com"
+  },
+  {
+    "nombre": "Proveedor D",
+    "direccion": "Avenida de los Suministros #567",
+    "telefono": "890123456",
+    "email": "proveedorD@example.com"
+  },
+  {
+    "nombre": "Proveedor E",
+    "direccion": "Calle de las Herramientas #789",
+    "telefono": "901234567",
+    "email": "proveedorE@example.com"
+  }
+]

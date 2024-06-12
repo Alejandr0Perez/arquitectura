@@ -1,0 +1,17 @@
+{
+  "nombre": "string",
+  "apellido": "string",
+  "email": "string",
+  "telefono": "string",
+  "direccion": "string",
+  "proyectos": [
+    {
+      "nombre": "string",
+      "descripcion": "string",
+      "fecha_inicio": "string",
+      "fecha_fin": "string",
+      "estado": "string",
+      "responsable": "string"
+    }
+  ]
+}

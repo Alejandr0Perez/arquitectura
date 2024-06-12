@@ -1,0 +1,8 @@
+{
+  "proyecto_id": "string",
+  "proveedor_id": "string",
+  "material_id": "string",
+  "cantidad": float,
+  "fecha_pedido": "string",
+  "estatus": "string"
+}

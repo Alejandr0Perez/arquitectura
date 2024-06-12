@@ -1,0 +1,33 @@
+{
+  "nombre": "string",
+  "descripcion": "string",
+  "fecha_inicio": "string",
+  "fecha_fin": "string",
+  "estado": "string",
+  "responsable": "string",
+  "materiales": [
+    {
+      "nombre": "string",
+      "descripcion": "string",
+      "categoria": "string",
+      "cantidad": float,
+      "unidad_medida": "string",
+      "precio_unitario": 0
+    }
+  ],
+  "herramientas": [
+    {
+      "nombre": "string",
+      "descripcion": "string",
+      "cantidad": float,
+      "estado": "string"
+    }
+  ],
+  "planos": [
+    {
+      "nombre": "string",
+      "descripcion": "string",
+      "url": "string"
+    }
+  ]
+}
